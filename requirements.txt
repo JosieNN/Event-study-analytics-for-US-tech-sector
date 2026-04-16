@@ -1,0 +1,9 @@
+pandas
+numpy
+requests
+beautifulsoup4
+yfinance
+psycopg[binary]
+pymongo
+flask
+jupyter
