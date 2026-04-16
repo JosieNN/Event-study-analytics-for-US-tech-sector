@@ -1,0 +1,12 @@
+# PostgreSQL
+PGHOST=localhost
+PGPORT=5432
+PGDATABASE=final
+PGUSER=postgres
+PGPASSWORD=your_password_here
+
+# MongoDB
+MONGO_URI=mongodb://localhost:27017
+
+# SEC API
+SEC_USER_AGENT=your_name your_email@example.com
